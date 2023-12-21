@@ -10,16 +10,16 @@ function showDiv() {
         }
 
         function loadfoto() {
-            wallpaper.src = "https://feeldreams.github.io/pics/carview.webp";
+            wallpaper.src = "https://dikiarmanda.github.io/pics/carview.webp";
 
-            gambar1 = "https://feeldreams.github.io/ywdh.gif";
-            gambar2 = "https://feeldreams.github.io/pusn.gif";
-            gambar3 = "https://feeldreams.github.io/mndkat.gif";
-            gambar4 = "https://feeldreams.github.io/pandangambek.gif";
-            gambar5 = "https://feeldreams.github.io/weee.gif";
+            gambar1 = "https://dikiarmanda.github.io/ywdh.gif";
+            gambar2 = "https://dikiarmanda.github.io/pusn.gif";
+            gambar3 = "https://dikiarmanda.github.io/mndkat.gif";
+            gambar4 = "https://dikiarmanda.github.io/pandangambek.gif";
+            gambar5 = "https://dikiarmanda.github.io/weee.gif";
 
-            //gambar6 = "https://feeldreams.github.io/gigitin.gif";
-            //gambar7 = "https://feeldreams.github.io/mmm.gif";
+            //gambar6 = "https://dikiarmanda.github.io/gigitin.gif";
+            //gambar7 = "https://dikiarmanda.github.io/mmm.gif";
 
             fotosatu.src = gambar1;
             fotodua.src = gambar2;
